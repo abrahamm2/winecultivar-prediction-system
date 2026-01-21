@@ -1,0 +1,8 @@
+Name: Moradeyo Abraham Oluwapelumi
+Matric Number: 23CH034236
+
+Machine Learning Algorithm Used: Random Forest Classifier
+Model Persistence Method: Joblib
+
+Live URL: 
+GitHub Repository Link: https://github.com/abrahamm2/winecultivar-prediction-system.git
